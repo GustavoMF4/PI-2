@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -29,3 +30,36 @@ Global
 		SolutionGuid = {77A89948-4E26-4E5C-9D2D-877032AD0868}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JogoPI2", "JogoPI2.vcxproj", "{9523A256-3D26-419A-AB4F-1C8D39526E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9523A256-3D26-419A-AB4F-1C8D39526E3B}.Debug|x64.ActiveCfg = Debug|x64
+		{9523A256-3D26-419A-AB4F-1C8D39526E3B}.Debug|x64.Build.0 = Debug|x64
+		{9523A256-3D26-419A-AB4F-1C8D39526E3B}.Debug|x86.ActiveCfg = Debug|Win32
+		{9523A256-3D26-419A-AB4F-1C8D39526E3B}.Debug|x86.Build.0 = Debug|Win32
+		{9523A256-3D26-419A-AB4F-1C8D39526E3B}.Release|x64.ActiveCfg = Release|x64
+		{9523A256-3D26-419A-AB4F-1C8D39526E3B}.Release|x64.Build.0 = Release|x64
+		{9523A256-3D26-419A-AB4F-1C8D39526E3B}.Release|x86.ActiveCfg = Release|Win32
+		{9523A256-3D26-419A-AB4F-1C8D39526E3B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD62690F-C054-4C2F-BE4A-B03023BC6CC1}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 1deedf1a9cd18eb88feb5ec2930daedff755c471
