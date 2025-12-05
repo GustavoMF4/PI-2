@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ghime\\source\\repos\\JogoPI2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA88014-9538-417D-9D5A-6D3DA9BECA35}|JogoPI2\\JogoPI2.vcxproj|C:\\Users\\ghime\\source\\repos\\JogoPI2\\JogoPI2\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDA88014-9538-417D-9D5A-6D3DA9BECA35}|JogoPI2\\JogoPI2.vcxproj|solutionrelative:JogoPI2\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\ghime\\source\\repos\\JogoPI2\\JogoPI2\\Main.c",
+              "RelativeDocumentMoniker": "JogoPI2\\Main.c",
+              "ToolTip": "C:\\Users\\ghime\\source\\repos\\JogoPI2\\JogoPI2\\Main.c*",
+              "RelativeToolTip": "JogoPI2\\Main.c*",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAgwEkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-05T20:55:37.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
